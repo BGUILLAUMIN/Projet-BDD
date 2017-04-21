@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="JobOverview" id="2FCAF8FE-1F07-43AE-C7D8-B7E59F28A198" version="3.5">
+<createdBy>bguillaumin</createdBy>
+<createdTime>2017-04-20 07:13:16 UTC</createdTime>
+<ownerDesignName>JobOverview</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>2FCAF8FE-1F07-43AE-C7D8-B7E59F28A198</designId>
+</OSDM_Design>
