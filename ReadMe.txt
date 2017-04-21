@@ -4,11 +4,11 @@
 1. SI JobOverview
 *****************
 
-* Documents livrés:
+* Documents livrÃ©s:
 
-- Modèles:
+- ModÃ¨les:
 	- JobOverview (.dmd)
-	- JobOverview (Dossier Source)
+	- JobOverview (.zip Archive du dossier source)
 	- MCD (.pdf)
 	- MPD (.pdf)
 	- JobOverviewDiagramme (.pdf)
@@ -26,12 +26,12 @@
 
 * Initialisation de la BDD:
 
-- Créer une nouvelle base de donnée nommée par exemple 'JobOverview'
+- CrÃ©er une nouvelle base de donnÃ©e nommÃ©e par exemple 'JobOverview'
 - Ouvrir le script SQL 'ConstructionBaseJobOverview'
-- Paramétrer la base de donnée sur laquelle doit s'appliquer le script 
+- ParamÃ©trer la base de donnÃ©e sur laquelle doit s'appliquer le script 
   (dans notre cas 'JobOverview')
-- Exécuter le script
-- De la même manière ouvrir le script SQL 'Saisies' et l'exécuter
+- ExÃ©cuter le script
+- De la mÃªme maniÃ¨re ouvrir le script SQL 'Saisies' et l'exÃ©cuter
 
 OU
 
@@ -39,26 +39,26 @@ OU
 
 * Utiliser les requetes:
 
-- Afin de travailler avec les requêtes existantes, ouvrir le script 'Requetes' 
-- Exécuter les requêtes sélectionnés
-- Exploiter les données
+- Afin de travailler avec les requÃªtes existantes, ouvrir le script 'Requetes' 
+- ExÃ©cuter les requÃªtes sÃ©lectionnÃ©s
+- Exploiter les donnÃ©es
 
 2. Requetage sur la base Grand-Hotel
 ************************************
 
-* Document livrés:
+* Document livrÃ©s:
 
 	- GrandHotelReponses
 		- Manque requete 
 
-		2.2	Fréquentation
+		2.2	FrÃ©quentation
 
-D.	Taux moyen de réservation par mois-année
-E.	Clients qui ont passé au total au moins 7 jours à l’hôtel au cours
-	d’un même mois (Id, Nom, mois où ils ont passé au moins 7 jours).
-G.	Clients qui ont fait un séjour à l’hôtel au moins deux mois de suite
-I.	Clients qui ont réservé plusieurs fois la même chambre au cours 
-	d’un même mois, mais pas deux jours d’affilée
+D.	Taux moyen de rÃ©servation par mois-annÃ©e
+E.	Clients qui ont passÃ© au total au moins 7 jours Ã  lâ€™hÃ´tel au cours
+	dâ€™un mÃªme mois (Id, Nom, mois oÃ¹ ils ont passÃ© au moins 7 jours).
+G.	Clients qui ont fait un sÃ©jour Ã  lâ€™hÃ´tel au moins deux mois de suite
+I.	Clients qui ont rÃ©servÃ© plusieurs fois la mÃªme chambre au cours 
+	dâ€™un mÃªme mois, mais pas deux jours dâ€™affilÃ©e
 
 
 
